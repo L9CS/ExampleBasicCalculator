@@ -1,0 +1,25 @@
+C:\Users\Lab-3\source\repos\hesapmakine\hesapmakine\bin\Debug\hesapmakine.exe.config
+C:\Users\Lab-3\source\repos\hesapmakine\hesapmakine\bin\Debug\hesapmakine.exe
+C:\Users\Lab-3\source\repos\hesapmakine\hesapmakine\bin\Debug\hesapmakine.pdb
+C:\Users\Lab-3\source\repos\hesapmakine\hesapmakine\obj\Debug\hesapmakine.csprojAssemblyReference.cache
+C:\Users\Lab-3\source\repos\hesapmakine\hesapmakine\obj\Debug\hesapmakine.Form1.resources
+C:\Users\Lab-3\source\repos\hesapmakine\hesapmakine\obj\Debug\hesapmakine.Properties.Resources.resources
+C:\Users\Lab-3\source\repos\hesapmakine\hesapmakine\obj\Debug\hesapmakine.csproj.GenerateResource.cache
+C:\Users\Lab-3\source\repos\hesapmakine\hesapmakine\obj\Debug\hesapmakine.csproj.CoreCompileInputs.cache
+C:\Users\Lab-3\source\repos\hesapmakine\hesapmakine\obj\Debug\hesapmakine.exe
+C:\Users\Lab-3\source\repos\hesapmakine\hesapmakine\obj\Debug\hesapmakine.pdb
+E:\nesne tabanlı programlama kodlar\hesapmakinesii\hesapmakine\bin\Debug\hesapmakine.exe.config
+E:\nesne tabanlı programlama kodlar\hesapmakinesii\hesapmakine\bin\Debug\hesapmakine.exe
+E:\nesne tabanlı programlama kodlar\hesapmakinesii\hesapmakine\bin\Debug\hesapmakine.pdb
+E:\nesne tabanlı programlama kodlar\hesapmakinesii\hesapmakine\obj\Debug\hesapmakine.csproj.AssemblyReference.cache
+E:\nesne tabanlı programlama kodlar\hesapmakinesii\hesapmakine\obj\Debug\hesapmakine.csproj.SuggestedBindingRedirects.cache
+E:\nesne tabanlı programlama kodlar\hesapmakinesii\hesapmakine\obj\Debug\hesapmakine.Form1.resources
+E:\nesne tabanlı programlama kodlar\hesapmakinesii\hesapmakine\obj\Debug\hesapmakine.Properties.Resources.resources
+E:\nesne tabanlı programlama kodlar\hesapmakinesii\hesapmakine\obj\Debug\hesapmakine.csproj.GenerateResource.cache
+E:\nesne tabanlı programlama kodlar\hesapmakinesii\hesapmakine\obj\Debug\hesapmakine.csproj.CoreCompileInputs.cache
+E:\nesne tabanlı programlama kodlar\hesapmakinesii\hesapmakine\obj\Debug\hesapmakine.exe
+E:\nesne tabanlı programlama kodlar\hesapmakinesii\hesapmakine\obj\Debug\hesapmakine.pdb
+E:\nesne tabanlı programlama kodlar\hesapmakinesii\hesapmakine\bin\Debug\hesapmakine.exe.manifest
+E:\nesne tabanlı programlama kodlar\hesapmakinesii\hesapmakine\bin\Debug\hesapmakine.application
+E:\nesne tabanlı programlama kodlar\hesapmakinesii\hesapmakine\obj\Debug\hesapmakine.exe.manifest
+E:\nesne tabanlı programlama kodlar\hesapmakinesii\hesapmakine\obj\Debug\hesapmakine.application
